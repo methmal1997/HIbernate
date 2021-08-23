@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.dialect">org.hibernate.dialect.DerbyDialect</property>
+    <property name="hibernate.connection.driver_class">org.apache.derby.jdbc.ClientDriver</property>
+    <property name="hibernate.connection.url">jdbc:derby://localhost:1527/GMovieDb</property>
+    <property name="hibernate.connection.username">mua</property>
+    <property name="hibernate.connection.password">mua</property>
+     <property name="hibernate.show_sql">true</property>
+    <property name="hibernate.current_session_context_class">thread</property>
+    <property name="hibernate.hbm2ddl.auto">update</property>
+    
+    
+    <mapping class="com.moviesite.hibernate.entity.Movie"/>
+    <mapping class="com.moviesite.hibernate.entity.RegisteredUser"/>
+    <mapping class="com.moviesite.hibernate.entity.Review"/>
+    <mapping class="com.moviesite.hibernate.entity.Actors"/>
+    <mapping class="com.moviesite.hibernate.entity.Directors"/>
+    <mapping class="com.moviesite.hibernate.entity.Admin"/>
+    <mapping class="com.moviesite.hibernate.entity.ActorMovie"/>
+    <mapping class="com.moviesite.hibernate.entity.DirectorMovie"/>
+    <mapping class="com.moviesite.hibernate.entity.Purchased"/>
+    
+  </session-factory>
+</hibernate-configuration>

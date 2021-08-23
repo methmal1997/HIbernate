@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/entity/Movie.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/entity/Directors.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/eao/ReviewEaoImpl.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/eao/ReviewEao.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/client/main.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/entity/Review.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/eao/UserEaoImpl.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/eao/AdminEao.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/entity/Admin.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/entity/RegisteredUser.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/eao/MovieEao.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/eao/UserEao.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/entity/Purchased.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/eao/MovieEaoImpl.java</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/hibernate1.cfg.xml</file>
+            <file>file:/C:/Users/ASUS/Documents/NetBeansProjects/movieSite/src/com/moviesite/hibernate/entity/Actors.java</file>
+        </group>
+    </open-files>
+</project-private>
